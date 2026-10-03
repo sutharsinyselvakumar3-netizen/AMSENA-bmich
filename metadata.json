@@ -1,0 +1,6 @@
+{
+  "name": "AI Companion",
+  "description": "Smart Onion Garden Robot - Hardware control and monitoring application for real ESP32 & ESP32-CAM onion garden robot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
